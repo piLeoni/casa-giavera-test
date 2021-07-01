@@ -1,0 +1,179 @@
+<structure>
+    <navigation id="navigation">
+        <link label="la nostra casa" anchor="lanostracasa"/>
+        <link label="da dove veniamo" anchor="dadoveveniamo"/>
+        <link label="social network" anchor="socialnetwork"/>
+        <link label="in cucina" anchor="incucina"/>
+        <link label="scatola dei ricordi" anchor="scatoladeiricordi"/>
+        <link label="gioia e rivoluzione" anchor="gioiaerivoluzione"/>
+        <link label="ramadan" anchor="ramadan"/>
+        <link label="journal" href="data/210531_CG_journal.pdf"/>
+        <link label="playlist" href="https://open.spotify.com/playlist/6l76URRvBIrqN8q6MF3Pp5?si=UTl27mk5T5qK6dgRswL9eA"/>
+    </navigation>
+    <components id="contents">
+        <quote> Casa Giavera è una casa che accoglie ospiti da tutto il mondo. Un’esperienza di vita comunitaria, che racconta i percorsi delle migrazioni. Da qui in oltre trent’anni sono passate più di 1200 persone dando forma a una piccola utopia concreta. </quote>
+        <gallery>
+            <image src="deMayda-6713.jpg" alt="Casa Giavera si occupa di inclusione lavorativa dei migranti"/>
+            <image src="deMayda-6890.jpg" alt="El Maki prepara il the come in Marocco"/>
+            <image src="deMayda-9675.jpg" alt="Mattonelle in legno lavorato e dipinto, durante il laboratorio tenuto da Sandra."/>
+            <image src="deMayda-7386.jpg" alt="didascalia"/>
+            <image src="deMayda-9029.jpg" alt="Seydou"/>
+        </gallery>
+        <divider span="quote"/>
+        <subtitle anchor="lanostracasa"> Una casa in cui abita il mondo intero </subtitle>
+        <quote> Casa Giavera è una casa di accoglienza che ospita persone provenienti da tutto il mondo. Si trova nel comune di Giavera del Montello, in provincia di Treviso. A partire dal 1990, oltre 1200 ospiti hanno abitato in questa casa, dando vita a un’eccezionale esperienza di vita comunitaria. </quote>
+        <paragraph> Mettendo insieme la mappa dei luoghi di origine dei molti abitanti passati per Casa Giavera, è possibile osservare le diverse forme e percorsi delle migrazioni che hanno attraversato questo territorio. A Casa Giavera hanno trovato un’abitazione immigrati lavoratori, richiedenti asilo, vittime di tratta, soggetti vulnerabili. Qui risiedono sia immigrati di lungo periodo che nuovi ospiti, in una dimensione di convivenza gestita in prima persona dai residenti. I diversi progetti avviati a Casa Giavera nascono con lintento di offrire una residenza temporanea agli ospiti e al contempo costruire percorsi di autonomia durante la permanenza. Tra questi il progetto Maneo, avviato nel 2019 e indirizzato a una quindicina di titolari di protezione umanitaria, vuole favorire l’inclusione attraverso la formazione professionale e l’inserimento lavorativo. L’obiettivo primario del progetto Maneo è la conversione del permesso umanitario in permesso di soggiorno per motivi di lavoro, grazie alla collaborazione con aziende del territorio. Il progetto nasce nell’ambito della campagna Liberi di partire, liberi di restare promossa e sostenuta dalla Conferenza episcopale italiana. Tra i soggetti promotori ci sono la Diocesi di Treviso, la Caritas Tarvisina, la Cooperativa La Esse, il Centro diocesano di formazione professionale “Opera Monte Grappa”. L’ufficio diocesano Migrantes accompagna e supporta le iniziative della casa. </paragraph>
+        <gallery>
+            <image src="deMayda-9186.jpg" alt="Casa Giavera ha ospitato più di 1200 migranti, da 41 paesi diversi"/>
+            <image src="deMayda-8931.jpg" alt="Casa Giavera ha ospitato più di 1200 migranti, da 41 paesi diversi"/>
+        </gallery>
+        <paragraph> Fin dall’inizio Casa Giavera si è posta in dialogo con l’esterno, per raccontare e far conoscere lo straordinario modello di accoglienza che qui ha preso forma. Nella casa si sono tenute presentazioni e laboratori sull’interculturalità, sono stati organizzati viaggi nei paesi d’origine degli ospiti, tessendo connessioni con realtà e associazioni in tutto il mondo. Decine di volontari e gruppi di giovani partecipano ogni anno a iniziative come i corsi di italiano e gli incontri di conversazione, incoraggiando la nascita di relazioni di conoscenza e amicizia con gli ospiti. Giavera Festival è nato con lo stesso spirito, come occasione di festa e apertura di Casa Giavera al paese in cui ha trovato dimora. L’evento si svolge dal 1995, con musica, danza, cucina dal mondo, teatro, presentazioni di libri. Tra le personalità che hanno preso parte al festival ci sono l’attore Marco Paolini, l’allora Ministro per l’integrazione Cécile Kyenge, il premio Nobel per la pace Shirin Ebadi. Alcune edizioni hanno registrato oltre 20mila presenze tra i partecipanti al festival. Quella di Casa Giavera è una piccola utopia concreta: uno spazio di incontro, dove le storie di vita di chi passa per questo luogo possono generare occasioni di confronto e riflessione collettiva sulle tematiche dell’immigrazione. </paragraph>
+        <quote> Una casa, in cui abita il mondo intero. </quote>
+        <divider span="quote"/>
+        <subtitle anchor="dadoveveniamo"> Da dove veniamo </subtitle>
+        <emisphere/>
+        <divider span="quote"/>
+        <subtitle anchor="socialnetwork"> Un luogo di accoglienza, uno spazio per riflettere sulle migrazioni </subtitle>
+        <quote> Casa Giavera nasce nel 1990, quando la Caritas di Treviso decide di utilizzare la vecchia canonica di Giavera del Montello, rimessa in funzione da don Giuliano Vallotto, per ospitare migranti. </quote>
+        <paragraph> La casa ha accolto negli anni più di 1200 persone, offrendo un’abitazione a immigrati e richiedenti asilo, attraverso diversi progetti di accoglienza. Casa Giavera, sostenuta dalla Diocesi di Treviso attraverso Caritas, è stata gestita dalla cooperativa Servire, oggi trasformatasi nella cooperativa La Esse. Agli ospiti della casa viene offerta la possibilità di imparare al meglio l’italiano, con corsi su misura. C’è chi riprende gli studi per ottenere la terza media, qualcuno prosegue fino al diploma superiore. Nel frattempo, grazie al rapporto con aziende vicine, ai migranti viene data l’opportunità di un inserimento lavorativo. Nel 2019 è stato avviato il progetto Maneo, indirizzato ad alcuni titolari di protezione umanitaria, una specifica categoria di richiedenti asilo, nato con l’obiettivo di convertire il loro documento permesso umanitario in un permesso per motivi di lavoro, attraverso un periodo di formazione professionale e un tirocinio in azienda. «I progetti sono calibrati sui bisogni delle persone. Casa Giavera ha sempre cercato di rispondere a questi bisogni, che cambiano nel tempo», spiega Francesca Dettori, presidente della cooperativa La Esse. «Lavoriamo tantissimo sull’autonomia personale, sull’inclusione lavorativa, abitativa e sociale delle persone. Con tutto il loro carico di esperienze passate e di aspettative e desideri rispetto al futuro. Per noi è importante costruire relazioni, creare dei piccoli ponti tra gli ospiti e il territorio». Osservando i luoghi di provenienza dei residenti di Casa Giavera nel corso degli anni, è possibile ripercorrere le varie fasi dell’immigrazione in quest’area. Dai primi migranti arrivati in aereo dall’Africa e dall’Asia con un permesso di lavoro, ai molti ospiti giunti dal Sud America, fino ai rifugiati in fuga dalla guerra in Bosnia ed Erzegovina, ai più recenti sbarchi sulle coste del Mediterraneo e ai migranti provenienti dalla rotta balcanica. Fin dall’inizio, «questo è stato pensato sia come un luogo di accoglienza, che come uno spazio in cui tentare di ragionare sul discorso dell’immigrazione, in una casa che è per scelta multiculturale», spiega don Bruno Baratto, direttore di Migrantes, a Casa Giavera da oltre venticinque anni. «La casa ha fatto dei passi importanti verso le persone al di fuori: abbiamo organizzato laboratori, abbiamo fatto tante attività cercando di invitare la gente qui. Sono arrivati migliaia di ragazzi, scout, parrocchie, campi estivi», racconta Stefano Donà, operatore di Casa Giavera dal 1995. «Abbiamo anche iniziato a organizzare dei viaggi con la casa di accoglienza», continua. «Quando gli ospiti tornavano a casa, noi radunavamo dei gruppi con una ventina di persone e andavamo con loro. Siamo stati in Tunisia, Mali, Costa d’Avorio, e in tanti altri posti. Con questi viaggi solidali d’incontro, andavamo a dormire a casa delle famiglie, condividevamo la vita del villaggio. Per noi si apriva un mondo splendido». </paragraph>
+        <gallery>
+            <image src="deMayda-9118.jpg" alt="Al Hassan, 30 anni, viene dal Ghana"/>
+            <image src="deMayda-9141.jpg" alt="Al Hassan, 30 anni, viene dal Ghana"/>
+            <image src="deMayda-8948.jpg" alt="didascalia"/>
+        </gallery>
+        <paragraph> Con lo stesso desiderio di apertura verso l’esterno, ha preso vita Giavera Festival, evento che vuole trasmettere l’esperienza e lo spirito di Casa Giavera a quante più persone possibili, grazie al teatro, alla musica, alla presenza di importanti personalità impegnate nella difesa e promozione dei diritti civili. In alcune edizioni oltre 20mila persone hanno partecipato al festival. La capacità di comunicare questo modello di accoglienza, ha fatto sì che Casa Giavera diventasse un punto di riferimento per queste tematiche. Nel tempo, «si è creata una sensibilità in ordine all’accoglienza e al desiderio di costruire percorsi di integrazione, di autonomia, di reciprocità», riflette don Davide Schiavon, direttore di Caritas Tarvisina. «Tutto questo è stato un percorso culturale». Si è visto con chiarezza quanto il messaggio e il sostegno alle iniziative della casa siano radicati, con la Marcia dei Millepiedi, nel gennaio del 2017. «C’è stato un momento, attorno al 2010, in cui sembrava si fosse un po’ ricomposta la conflittualità che esisteva all’inizio a livello territoriale», riflette don Bruno Baratto. «Poi la questione immigrazione è ritornata a essere utile per un certo consenso politico elettorale e la conflittualità è ripresa». In risposta ai toni molto duri di alcune manifestazioni contro la presenza di un centro di accoglienza di migranti e rifugiati sul Montello, Casa Giavera ha organizzato una marcia, coinvolgendo inizialmente i volontari e gli amici più stretti. A partecipare tuttavia erano molti di più, a testimoniare il grande supporto alla casa, nonostante la fredda giornata invernale. «Sono arrivate 5mila persone, è stato davvero incredibile» ricorda Stefano Donà. «E tutti erano lì a dirci: siamo con voi. È stato un segnale importantissimo». </paragraph>
+        <quote> La prospettiva per gli anni a venire, secondo don Davide Schiavon, è quella di «continuare sulla sfida culturalee di fare della casa un luogo formativo, di conoscenzasul campo». </quote>
+        <contentsgallery title="social network">
+            <section title="Profumo di menta">
+                <images>
+                    <image src="deMayda-6893.jpg" alt="El Maki prepara il the come in Marocco"/>
+                    <image src="deMayda-6996.jpg" alt="El Maki"/>
+                    <image src="deMayda-6939.jpg" alt="El Maki"/>
+                    <image src="deMayda-7030.jpg" alt="El Maki"/>
+                </images>
+                <text> Nel grande cortile di fronte a Casa Giavera c’è sempre movimento. Qualcuno esce per raccogliere i panni stesi al sole, qualcun altro inforca la bicicletta per scendere in paese a fare la spesa. Martino invece si dirige verso l’orto di cui si occupa da diverso tempo. È un’attività che richiede pazienza. «Tutti possono prendere quello che vogliono, qui siamo tutti fratelli», spiega con gentilezza. Raccoglie l’acqua dal pozzo che si trova in giardino. Innaffia le piantine, alcuni germogli stanno spuntando proprio adesso. Martino nel suo orto coltiva cipolle, cavolfiori, melanzane, zucchine. Ci sono anche cetrioli, prezzemolo, carote, e poi pomodori, fagioli, aglio. Manca poco perché comincino a maturare anche le prime fragole. L’orto occupa una porzione di terra su due livelli. Del resto qui lo spazio non manca. In un grande vaso vicino al pozzo stanno crescendo alcune foglie di maggiorana, servirà a condire la carne da mangiare insieme al cous cous, manzo, oppure agnello o coniglio. Ma la cosa che colpisce di più è il profumo di menta. Quando si sposta da una stanza all’altra Martino è accompagnato dall’aroma della pianta, che non si fa mai mancare. «Serve a preparare il the come si fa in Marocco: foglie di the essicato, molto zucchero di canna e menta fresca», racconta. Ha perfezionato la ricetta quando faceva il commesso viaggiatore e si spostava da una città all’altra del paese. Ogni volta che un nuovo ospite entra, per prima cosa Martino prepara un the e glielo porta. «Ecco, benvenuto a Casa Giavera». </text>
+            </section>
+            <section title="Riccardo, autista volontario">
+                <images>
+                    <image src="deMayda-8982.jpg" alt="Riccardo ha organizzato il trasporto fino a scuola"/>
+                    <image src="deMayda-8971.jpg" alt="Mirta"/>
+                </images>
+                <text> Per arrivare da Casa Giavera al centro di formazione professionale di Onè di Fonte serve percorrere una trentina di chilometri, su trafficate strade provinciali o su scorciatoie non proprio rapide, con vista panoramica sulle colline. Un percorso suggestivo, ma complicato da fare ogni giorno se l’unico mezzo che si possiede è una bicicletta. Come fare, per aiutare i ragazzi che frequentano la scuola serale? «Con la cooperativa La Esse collaboriamo già da qualche anno, ci hanno chiesto una mano per organizzare il trasporto». Riccardo, legato al centro missionario di Casa Milaico, che si trova non lontano da Casa Giavera, è uno dei volontari del gruppo Migrando. «Qui conosciamo tante persone impegnate nel sociale, molti sono pensionati, con più tempo a disposizione. Nel giro di poco tempo siamo riusciti a raccogliere una quindicina di volontari, che io poi ho organizzato facendo i turni». Ogni autista arriva alla casa, lascia la macchina, si mette alla guida del pulmino, con 7-8 studenti. Partenza intorno alle 17, alle 18 cominciano le lezioni. Uscita alle 21 e poi ritorno alla base. Tutti i giorni, per i tre o quattro mesi di durata del corso. «I volontari vengono dal circondario, hanno aderito in tanti quindi è stato un impegno piacevole perché poco gravo- so. Tutti hanno risposto con entusiasmo». </text>
+            </section>
+            <section title="Laboratorio di italiano">
+                <images>
+                    <image src="deMayda-8876.jpg" alt="Una lezione di italiano, in videochiamata"/>
+                    <image src="deMayda-8880.jpg" alt="Una lezione di italiano, in videochiamata"/>
+                </images>
+                <text> Oltre alle lezioni di italiano, tenute da un’insegnante qualificata seguendo un programma strutturato, a Casa Giavera è stato avviato un laboratorio di conversazione, con alcuni giovani volontari che vivono nei dintorni della casa di accoglienza. «Ci è stato chiesto di aiutare i ragazzi a imparare l’italiano, di dar loro un sostegno» racconta Marika, educatrice 30enne, «con l’idea che gli ospiti possano interagire con dei loro coetanei». Il laboratorio si svolgeva inizialmente due giorni alla settimana, in presenza, con una decina di ragazzi. Poi i partecipanti sono aumentati fino a 15, e così anche i volontari, 12 persone ad alternarsi. Alcuni tra gli ospiti della casa studiano per ottenere il diploma di terza media, spesso i volontari li aiutano negli esercizi. «Altri invece imparano a dialogare, a fare conversazione, per riuscire a presentarsi al meglio e per raccontare un po’ di sé in modo sciolto. Per alcuni di loro l’Italiano sembra essere una lingua un po’ difficile», spiega Marika. «Lavoriamo con piccoli gruppi, cosa che ci ha permesso di avere un dialogo più intimo, riuscendo ad aiutare meglio i ragazzi ma anche a farli parlare di più, ad aprirsi. Si è creato un bel rapporto, che spe- riamo rimanga. Siamo amici ora, questo è il risultato, il progresso che c’è stato». </text>
+            </section>
+        </contentsgallery>
+        <subtitle anchor="incucina"> In cucina </subtitle>
+        <quote>
+«Oggi vi faccio assaggiare il pane che facciamo in Pakistan», sorride Yusuf. «Si chiama
+            <em>roti</em>
+». Prende una ciotola, ci versa l’acqua e la farina integrale di frumento. Comincia a lavorare l’impasto, per poi continuare a impastare su un ripiano della cucina. Forma una palla, la lascia nella ciotola coperta con un panno: «Deve riposare un po’, torniamo fra venti minuti».
+        </quote>
+        <gallery>
+            <image src="deMayda-7336.jpg" alt="Yusuf ha lavorato a lungo come cuoco"/>
+            <image src="deMayda-7358.jpg" alt="Una ricetta che viene dal Pakistan"/>
+        </gallery>
+        <paragraph> Abbiamo tempo. Del resto questa è una ricetta che viene da lontano. Un viaggio che, solo nella prima tappa dal Pakistan alla Turchia, è durato diversi mesi di cammino. Oltre 3500 chilometri, percorsi a piedi. Poi la Grecia, la Bulgaria, l’Austria, la Germania, infine l’Italia. Tra i molti lavori che ha fatto in questi anni Yusuf ha lavorato a lungo come cuoco. Si vede. Maneggia l’impasto con esperienza, lo divide in palline tonde più piccole, comincia a stenderle una alla volta con un mattarello. Mette la pasta appiattita su una padella calda. Con un panno la tiene schiacciata ai bordi, così il roti si gonfia al centro. Gira il roti, continuando a premere sui bordi. Per la cucina si diffonde il profumo buonissimo del pane che Yusuf sta preparando. In pochi minuti è pronto. Sa decisamente come ingolosirci: «la prossima volta vi insegno a fare i samosa, che ne dite?». </paragraph>
+        <divider span="paragraph"/>
+        <quote> Sankoh ha 38 anni, è arrivato in Italia dalla Sierra Leone quattro anni fa. «Vengo dalla capitale, da Freetown. C’è il mare, in tanti vengono in città per andare in spiaggia e nuotare», racconta. </quote>
+        <gallery>
+            <image src="deMayda-6532.jpg" alt="Sankoh nell’azienda agricola in cui lavora"/>
+            <image src="deMayda-6608.jpg" alt="La stagione del raccolto"/>
+        </gallery>
+        <paragraph> Sankoh ha 38 anni, è arrivato in Italia dalla Sierra Leone quattro anni fa. «Vengo dalla capitale, da Freetown. C’è il mare, in tanti vengono in città per andare in spiaggia e nuotare», racconta. «Sono sposato e ho un figlio di dieci anni». Nei momenti liberi Sankoh chiama a casa a Freetown e fa delle lunghe videochiamate con la famiglia. Poco dopo essere giunto in Italia ha trovato ospitalità a Casa Giavera, dove una delle persone con cui ha più legato è Stefano Donà, operatore della casa. «Stefano mi ha aiutato per tante cose, con il lavoro, con i documenti e con i contatti con l’avvocato», spiega Sankoh. Da un paio d’anni Sankoh lavora con Mattia, che gestisce un’azienda agricola con un piccolo negozio aperto al pubblico. «In questo periodo stiamo raccogliendo ortaggi, soprattutto fagioli, radicchio, asparagi. Sono tutte verdure che mi piacciono molto», racconta Sankoh. Il rapporto con il cibo è qualcosa che ha sempre accompagnato Sankoh, fin da quand’era un ragazzo. «È così. Nella mia casa in Sierra Leone c’era un forno» ricorda, «andavo spesso in giro con mio fratello e con mia sorella a vendere il pane, in bicicletta». </paragraph>
+        <divider span="paragraph"/>
+        <quote> «Mio papà già abitava a Casa Giavera, l’ho raggiunto dal Burkina Faso grazie al ricongiungimento famigliare quando avevo 19 anni», ricorda Seydou, che ora ne ha 29 e da un anno vive in affitto in un grande appartamento trovato tramite un collega di lavoro. </quote>
+        <gallery>
+            <image src="deMayda-8996.jpg" alt="Seydou con un volume della sua nutrita libreria"/>
+            <image src="deMayda-9022.jpg" alt=""/>
+        </gallery>
+        <paragraph> Seydou mentre era a Casa Giavera è riuscito a diplomarsi. «Facevo le scuole serali, perché di giorno lavoravo in un vivaio. Nella casa ho fatto tutto il mio percorso, ho avuto molte persone intorno a me a sostenermi. Quando mi sono diplomato abbiamo fatto una grandissima festa». Ora Seydou lavora in un’azienda metalmeccanica della zona, «gestisco i macchinari automatici e semiautomatici, mi occupo sia della progettazione che della manutenzione». È lì da tre anni, e da subito ha cominciato a mettere da parte dei risparmi per portare avanti il progetto che sogna di realizzare a Garango, la sua città natale. «Tempo fa ho seguito un corso di formazione sull’agricoltura biologica. E ho deciso che questo sarà il mio futuro», racconta. «Ho deciso di investire, comprando dei terreni nel mio paese, dove non c’è esperienza in questo settore. Ora ho a disposizione 5 ettari in cui mi sto occupando, insieme a mio cugino che mi dà una mano, della piantumazione di alberi da frutto, come mango, guava, banana». Mentre racconta di come Thomas Sankara, uno dei suoi punti di riferimento, abbia creato il nome Burkina Faso, che significa «terra degli uomini integri», Seydou ci mostra la mappa del terreno, con il piano delle coltivazioni. Ci indica un punto della proprietà: qui ci sarà un ristorante, dove verranno preparati piatti con i prodotti raccolti a pochi passi. La cucina è un’altra delle passioni di Seydou: nella nutrita libreria un’intero scaffale è dedicato ai volumi di ricette di Gualtiero Marchesi. «Io continuo a studiare, ad imparare. Ora sto progettando gli impianti di irrigazione, che vorrei automatizzare. Tutto quello che apprendo potrò spiegarlo ad altri. È questo il mio sogno, che pian piano si sta realizzando». </paragraph>
+        <contentsgallery title="scatola dei ricordi" anchor="scatoladeiricordi">
+            <section title="Rotoli">
+                <images>
+                    <image src="deMayda--2.jpg"/>
+                </images>
+                <text> Rotoli di filo provenienti dalla Tunisia. Tra i diversi progetti avviati, Casa Giavera aveva messo in piedi un progetto di tessitura, coinvolgendo un’associazione di donne del sud della Tunisia. «Per un po’ di tempo abbiamo realizzato tessuti e stoffe. Poi, con le sommosse della Rivoluzione dei Gelsomini, il progetto si è interrotto», racconta Stefano Donà, operatore di Casa Giavera. «Questi fili tuttavia non si sono spezzati: abbiamo mantenuto i contatti, abbiamo realizzato altri progetti, siamo anche andati a conoscere di persona questa realtà». </text>
+            </section>
+            <section title="Valigia">
+                <images>
+                    <image src="deMayda--3.jpg"/>
+                </images>
+                <text> Una valigia, che contiene vestiti, documenti, ricordi. Uno degli oggetti che più rappresenta l’anima di Casa Giavera. «Questa valigia appartiene ad Alì, un signore pakistano che mi ha chiesto, ormai sono trascorsi un paio d’anni, di poterla custodire. Non poteva portarla con sé, voleva viaggiare leggero», racconta Stefano Donà, operatore di Casa Giavera. «È andato a fare il pizzaiolo in Danimarca. Ci siamo sentiti per un po’, poi ho perso i suoi contatti. La valigia però è rimasta. Vedremo cosa succederà, se tornerà un giorno a riprendersela». </text>
+            </section>
+            <section title="Fotografia">
+                <images>
+                    <image src="deMayda--4.jpg"/>
+                </images>
+                <text> «Era una persona fuori dal comune, era sempre disponibile. Non alzava mai la voce, era uno dei pochi che riusciva a mettere a posto le cose quando non andavano bene fra gli ospiti della casa. Ha scoperto di avere un tumore allo stomaco, troppo tardi. Sapendo che non aveva molti mesi di vita, Akwasi ha deciso di tornare a casa, in Ghana. Con la sua ragazza hanno deciso di sposarsi e di dare vita a un figlio. La moglie ora vive in Sudafrica, dove lavora. Ho conservato il suo passaporto, ogni tanto lo riguardo. È stata una grande perdita per la casa di Giavera» (Stefano Donà, operatore a Casa Giavera dal 1995). </text>
+            </section>
+            <section title="Seggiola">
+                <images>
+                    <image src="deMayda--5.jpg"/>
+                </images>
+                <text> «Noi in Africa abbiamo la necessità di riutilizzare tutto, non per fare arte, ma per sopravvivenza»: un ospite proveniente da un paese africano ha portato a Casa Giavera questa seggiola, realizzata a mano, mettendo insieme componenti raccolte qua e là, come il vecchio copertone di una bicicletta, in una personalissima interpretazione del riciclo. Ne è nato un oggetto utile, dall’uso pratico, ma che rappresenta anche il riposo, l’incontro, il dialogo, il tempo passato insieme. </text>
+            </section>
+            <section title="Collage">
+                <images>
+                    <image src="deMayda--6.jpg"/>
+                </images>
+                <text> Un collage di immagini religiose realizzato da Josif, ospite rumeno che ha vissuto diversi anni a Casa Giavera. «La sua stanza era un piccolo fragile avamposto rumeno: i quadri con le figure religiose, la radio sempre accesa con la musica popolare, la coperta rossa» ricorda Stefano Donà, operatore di Casa Giavera. «Tornava in Romania a Natale e in estate, lavorava sodo per mandare i soldi a casa e dare un futuro alla sua famiglia». Josif è uscito da Casa Giavera da circa un anno. </text>
+            </section>
+            <section title="Rosa del deserto">
+                <images>
+                    <image src="deMayda--7.jpg"/>
+                </images>
+                <text> La rosa del deserto è un pezzo di pietra desertica, che assume forme diverse con il solidificarsi della sabbia. È un oggetto che si trova spesso nelle bancarelle destinate ai turisti, come souvenir esotico. Ma per molte famiglie, in particolare vicino al confine tra la Tunisia e l’Algeria, rappresenta un’importante fonte di sostentamento. In queste stesse zone, Casa Giavera ha organizzato negli anni diversi viaggi, per incontrare e conoscere la popolazione dei villaggi di origine di alcuni ospiti della casa di accoglienza. </text>
+            </section>
+            <section title="Tagliere">
+                <images>
+                    <image src="deMayda--8.jpg"/>
+                </images>
+                <text> Un tagliere realizzato in legno d’olivo, proveniente dall’area costiera del Sahel, in Tunisia. L’oggetto è stato portato a Casa Giavera come dono, da un ospite che in questa zona possiede un piccolo oleificio tradizionale, dove l’olio viene estratto grazie a una grande macina, come nell’antico processo di lavorazione. Casa Giavera ha poi avviato un progetto di collaborazione con alcune realtà locali, acquistando dei taglieri realizzati nel territorio e mettendoli in vendita al Giavera Festival. </text>
+            </section>
+            <section title="Barca">
+                <images>
+                    <image src="deMayda--9.jpg"/>
+                </images>
+                <text> Una barca realizzata a mano da un richiedente asilo nella cittadina calabrese di Riace, conservata a Casa Giavera. L’oggetto riproduce una delle tante imbarcazioni di fortuna con cui migranti provenienti dalle coste africane, della Tunisia e della Libia in particolare, arrivano in Italia, inseguendo il sogno di una vita migliore. Riace in questi anni ha rappresentato un modello di accoglienza, grazie a diversi progetti di integrazione rivolti a migranti e richiedenti asilo, in un riuscito esperimento di convivenza tra la popolazione locale e i nuovi abitanti. </text>
+            </section>
+            <section title="Scatole">
+                <images>
+                    <image src="deMayda--10.jpg"/>
+                </images>
+                <text> «Pakistan, Tunisia, Marocco, Somalia, Brasile, Argentina, Costa d’Avorio, Burkina Faso, Nigeria. E tanti altri paesi. In queste scatole ci sono le tante storie di giovani uomini che passando per Casa Giavera hanno cercato di ridare forma e orizzonte al proprio percorso migratorio. Alcuni di loro purtroppo non ci sono più, molti altri hanno messo su famiglia, molti altri ancora chissà dove sono ora» (Stefano Donà, operatore a Casa Giavera dal 1995). </text>
+            </section>
+        </contentsgallery>
+        <subtitle anchor="gioiaerivoluzione"> Gioia e Rivoluzione </subtitle>
+        <quote> «Io di questo mondo non sapevo niente. Lavoravo come grafico, facevo attività scout, giocavo a calcio. Era davvero un’altra vita». </quote>
+        <gallery>
+            <image src="deMayda-9295.jpg" alt="Stefano è operatore a Casa Giavera dal 1995"/>
+        </gallery>
+        <paragraph> Stefano Donà ricorda di quando è venuto a conoscenza di Casa Giavera per la prima volta. «Avevo 30 anni, mi chiesero se ero disponibile a trasferirmi qui e a gestire la casa. Per me voleva dire lasciare il lavoro, cambiare tutto». L’arrivo a Giavera del Montello, nel 1995, coincide con i primi passi nella casa anche di don Bruno Baratto. «In casa c’erano quasi una quarantina di ospiti, si incontrava davvero tutto il mondo», ricorda Stefano. «Ho deciso di rischiare. Dormivo qui, vivevo a stretto contatto con gli ospiti. Ho potuto rimettermi a studiare, seguendo diversi corsi all’università. Era tutto molto stimolante, sono stati anni bellissimi». Per aprire la casa al territorio si organizzano laboratori sull’interculturalità, volontari dei comuni limitrofi arrivano a dare una mano durante le iniziative. Vengono ideati i primi viaggi, con una ventina di persone e famiglie a partecipare, tutti insieme in visita nei paesi di origine di alcuni ospiti. Un modo per condividere esperienze di vita uniche. «Ormai ho più amici stranieri che italiani» sorride Stefano, «ma il mio mondo è questo. Il mio testimone di nozze ha abitato qui. Quando c’è il festival, quel luogo diventa un’agorà, ci si ritrova tutti lì, anche con gli ex ospiti della casa. Il guadagno per me è stato immenso». </paragraph>
+        <divider span="paragraph"/>
+        <quote> Fino a due anni fa vivevano tutti insieme a Casa Giavera. Poi Eric è riuscito ad acquistare l’appartamento: ora qui abitano in tre, con Kante e Ismael che pagano l’affitto al nuovo proprietario. </quote>
+        <gallery>
+            <image src="deMayda-9524.jpg" alt="Eric, Kante e Ismael all’entrata di casa"/>
+        </gallery>
+        <paragraph> Eric, originario del Burkina Faso, e Ismael, che viene dal Senegal, sono in Italia da più di dieci anni, mentre Kante è arrivato dal Mali nel 2015. Durante il periodo trascorso nella casa, sono riusciti a trovare un lavoro stabile, «e a me va molto bene anche perché riesco a prendermi cura della famiglia, a mandare un po’ di soldi a casa», spiega Eric. La domenica, liberi dagli impegni, tornano a Casa Giavera, a passare la giornata con i molti amici che abitano ancora lì. È facile che si scenda al campetto non lontano dalla casa, per giocare a calcio tutti insieme. Eric, tuttavia, a volte preferisce altri itinerari. «Io non sto mai fermo», precisa. «Mi piace scoprire posti nuovi, sono curioso, vado in giro alla continua ricerca di idee». C’è una cosa che ama fare, più di ogni altra. «A volte vado a pescare, è la mia passione. È un’attività che facevo anche in Africa. Mi piace molto, anche se avevo un po’ paura dell’acqua. Ora però ho imparato a nuotare». </paragraph>
+        <divider span="paragraph"/>
+        <quote> Kande, che ora ha 25 anni, è arrivato in Italia molto giovane. «Vengo dal Senegal, sono qui da sei anni. Ho vissuto a Siracusa, poi a Treviso, ad Asolo, a Torino, dove per un po’ ho lavorato in un’azienda tessile». </quote>
+        <gallery>
+            <image src="deMayda-7223.jpg" alt="I turni di pulizia degli spazi comuni"/>
+        </gallery>
+        <paragraph> Kande è uno degli ospiti arrivati a Casa Giavera grazie al progetto Maneo, pensato per facilitare l’inserimento lavorativo di alcuni richiedenti asilo. «Vivo a Casa Giavera da un anno. Qui hanno aiutato tantissimo, grazie alla casa ho trovato un lavoro. Quando sono arrivato ho frequentato un corso di due mesi e dopo un tirocinio mi hanno assunto a tempo indeterminato nella fabbrica dove ho iniziato a lavorare come saldatore. In azienda siamo in 15, i colleghi sono tutti molto gentili, mi spiegano con calma, lavorano bene». Oltre alla formazione professionale, Casa Giavera ha organizzato un corso e un laboratorio di lingua, «ed è una cosa bellissima per me. Le lezioni vanno molto bene, gli insegnanti ci fanno fare degli esercizi, ci danno dei compiti e quando non capiamo ci aiutano». Quando non è impegnato con il lavoro o con lo studio, a Kande piace uscire. «Ho due cari amici, uno è guineano e l’altro viene dal Mali, abbiamo vissuto insieme a Casa Giavera. Ora uno vive a Treviso, l’altro a Castelfranco. Ci sentiamo spesso, parliamo al telefono, anche loro durante la settimana lavorano. Appena posso, ci vediamo e usciamo. Ci piace andare in giro, stare insieme». </paragraph>
+        <divider span="quote"/>
+        <subtitle anchor="ramadan"> Ramadan </subtitle>
+        <gallery>
+            <image src="deMayda-7168.jpg" alt="Ramdan"/>
+            <image src="deMayda-9194.jpg" alt="Casa Giavera"/>
+        </gallery>
+        <quote> Le giornate si stanno allungando, il sole oggi cala alle 19.58. Si aspetta tutti insieme il tramonto, il momento in cui finalmente potremo cenare. In cucina c’è chi prepara cous cous con le verdure, chi cucina il pollo, qualcuno ha già messo in tavola un piatto di riso. </quote>
+        <paragraph> C’è un grande piatto pieno di datteri, pronto, che inonda di profumo lo spazio comune. Il pasto della sera si chiama iftar, che si può consumare solo quando il sole è calato e solo dopo aver recitato la preghiera del tramonto. Molti degli ospiti di Casa Giavera sono musulmani, e il mese del Ramadan è uno dei momenti più importanti dell’anno. È necessario praticare il digiuno dall’alba al tramonto. Il pasto che possiamo consumare prima dell’alba si chiama suhur. Non è possibile nemmeno bere o fumare. La preghiera è importantissima durante il periodo di Ramadan. In casa c’è uno spazio dedicato alla preghiera, un’ampia stanza con dei grandi tappeti, dove ci si riunisce o dove chi vuole può mettersi a pregare. Alla fine del Ramadan, dopo aver completato il mese di digiuno, possiamo tornare alla normalità. </paragraph>
+    </components>
+</structure>

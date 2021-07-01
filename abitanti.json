@@ -1,0 +1,4556 @@
+{
+    "type": "FeatureCollection",
+    "name": "abitanti-casa-giavera",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kabul",
+                "Country": "Afghanistan",
+                "Lat": 34.555347,
+                "Lon": 69.207489
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.207489,
+                    34.555347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Durrës",
+                "Country": "Albania",
+                "Lat": 41.31887,
+                "Lon": 19.44513
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.44513,
+                    41.31887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Elbasan",
+                "Country": "Albania",
+                "Lat": 41.11256,
+                "Lon": 20.080759
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.080759,
+                    41.11256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Laç",
+                "Country": "Albania",
+                "Lat": 41.636,
+                "Lon": 19.71231
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.71231,
+                    41.636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Pogradec",
+                "Country": "Albania",
+                "Lat": 40.901791,
+                "Lon": 20.656179
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.656179,
+                    40.901791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Shijak",
+                "Country": "Albania",
+                "Lat": 41.34547,
+                "Lon": 19.56181
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.56181,
+                    41.34547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Shkodër",
+                "Country": "Albania",
+                "Lat": 42.06721,
+                "Lon": 19.51182
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.51182,
+                    42.06721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Skuraj",
+                "Country": "Albania",
+                "Lat": 41.67664,
+                "Lon": 20.05934
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.05934,
+                    41.67664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tirana",
+                "Country": "Albania",
+                "Lat": 41.327572,
+                "Lon": 19.819281
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.819281,
+                    41.327572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Vlorë",
+                "Country": "Albania",
+                "Lat": 40.47051,
+                "Lon": 19.49116
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.49116,
+                    40.47051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Algiers",
+                "Country": "Algeria",
+                "Lat": 36.771721,
+                "Lon": 3.05176
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05176,
+                    36.771721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Annaba",
+                "Country": "Algeria",
+                "Lat": 36.900162,
+                "Lon": 7.7653
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7653,
+                    36.900162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Barika",
+                "Country": "Algeria",
+                "Lat": 35.38306,
+                "Lon": 5.36855
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36855,
+                    35.38306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Blida",
+                "Country": "Algeria",
+                "Lat": 36.47897,
+                "Lon": 2.80438
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.80438,
+                    36.47897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Boumerdes",
+                "Country": "Algeria",
+                "Lat": 36.75808,
+                "Lon": 3.47116
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.47116,
+                    36.75808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Chlef",
+                "Country": "Algeria",
+                "Lat": 36.166088,
+                "Lon": 1.33085
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.33085,
+                    36.166088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Cherchell",
+                "Country": "Algeria",
+                "Lat": 36.60369,
+                "Lon": 2.18212
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18212,
+                    36.60369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Constantine",
+                "Country": "Algeria",
+                "Lat": 36.35183,
+                "Lon": 6.61163
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.61163,
+                    36.35183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Khroub",
+                "Country": "Algeria",
+                "Lat": 36.26127,
+                "Lon": 6.69636
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.69636,
+                    36.26127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Guelma",
+                "Country": "Algeria",
+                "Lat": 36.4485,
+                "Lon": 7.4306
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4306,
+                    36.4485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Hacine",
+                "Country": "Algeria",
+                "Lat": 35.45988,
+                "Lon": -0.00616
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00616,
+                    35.45988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kouba",
+                "Country": "Algeria",
+                "Lat": 36.72826,
+                "Lon": 3.08117
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08117,
+                    36.72826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Médéa",
+                "Country": "Algeria",
+                "Lat": 36.2642,
+                "Lon": 2.75386
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.75386,
+                    36.2642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Meftah",
+                "Country": "Algeria",
+                "Lat": 36.62051,
+                "Lon": 3.22218
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22218,
+                    36.62051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mostaganem",
+                "Country": "Algeria",
+                "Lat": 35.93216,
+                "Lon": 0.08438
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08438,
+                    35.93216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "N'Gaous",
+                "Country": "Algeria",
+                "Lat": 35.55366,
+                "Lon": 5.61165
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.61165,
+                    35.55366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Relizane",
+                "Country": "Algeria",
+                "Lat": 35.74084,
+                "Lon": 0.55134
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.55134,
+                    35.74084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Rouina",
+                "Country": "Algeria",
+                "Lat": 36.24415,
+                "Lon": 1.79877
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.79877,
+                    36.24415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sidi Bel Abbès",
+                "Country": "Algeria",
+                "Lat": 35.19092,
+                "Lon": -0.63523
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.63523,
+                    35.19092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tlemcen",
+                "Country": "Algeria",
+                "Lat": 34.88385,
+                "Lon": -1.31402
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.31402,
+                    34.88385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tebessa",
+                "Country": "Algeria",
+                "Lat": 35.40516,
+                "Lon": 8.12059
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.12059,
+                    35.40516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tipaza",
+                "Country": "Algeria",
+                "Lat": 36.591599,
+                "Lon": 2.44882
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44882,
+                    36.591599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Córdoba",
+                "Country": "Argentina",
+                "Lat": -31.40506,
+                "Lon": -64.171898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.171898,
+                    -31.40506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Godoy Cruz",
+                "Country": "Argentina",
+                "Lat": -32.91967,
+                "Lon": -68.85628
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.85628,
+                    -32.91967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "La Pelada",
+                "Country": "Argentina",
+                "Lat": -30.86613,
+                "Lon": -60.96918
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.96918,
+                    -30.86613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mar del Plata",
+                "Country": "Argentina",
+                "Lat": -37.996971,
+                "Lon": -57.549099
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.549099,
+                    -37.996971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Rosario",
+                "Country": "Argentina",
+                "Lat": -32.95924,
+                "Lon": -60.683479
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.683479,
+                    -32.95924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "San Juan",
+                "Country": "Argentina",
+                "Lat": -31.53866,
+                "Lon": -68.536301
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.536301,
+                    -31.53866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Santa Fe",
+                "Country": "Argentina",
+                "Lat": -31.631519,
+                "Lon": -60.714458
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.714458,
+                    -31.631519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Djougou",
+                "Country": "Benin",
+                "Lat": 9.70805,
+                "Lon": 1.66538
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.66538,
+                    9.70805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Donja Barska",
+                "Country": "Bosnia and Herzegovina",
+                "Lat": 44.99717,
+                "Lon": 15.85525
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85525,
+                    44.99717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Šamac",
+                "Country": "Bosnia and Herzegovina",
+                "Lat": 45.06129,
+                "Lon": 18.46935
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.46935,
+                    45.06129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Priboj",
+                "Country": "Bosnia and Herzegovina",
+                "Lat": 44.59964,
+                "Lon": 18.92831
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.92831,
+                    44.59964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sarajevo",
+                "Country": "Bosnia and Herzegovina",
+                "Lat": 43.858181,
+                "Lon": 18.41234
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41234,
+                    43.858181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Srebrenica",
+                "Country": "Bosnia and Herzegovina",
+                "Lat": 44.10334,
+                "Lon": 19.29876
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.29876,
+                    44.10334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Barra de São Francisco",
+                "Country": "Brazil",
+                "Lat": -18.75224,
+                "Lon": -40.89269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.89269,
+                    -18.75224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bela Vista do Paraíso",
+                "Country": "Brazil",
+                "Lat": -22.99622,
+                "Lon": -51.1911
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1911,
+                    -22.99622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Belo Horizonte",
+                "Country": "Brazil",
+                "Lat": -19.91818,
+                "Lon": -43.93705
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.93705,
+                    -19.91818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Cachoeiro de Itapemirim",
+                "Country": "Brazil",
+                "Lat": -20.84887,
+                "Lon": -41.11325
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.11325,
+                    -20.84887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Colatina",
+                "Country": "Brazil",
+                "Lat": -19.5345,
+                "Lon": -40.62926
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.62926,
+                    -19.5345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Curitiba",
+                "Country": "Brazil",
+                "Lat": -25.42836,
+                "Lon": -49.273251
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.273251,
+                    -25.42836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Linhares",
+                "Country": "Brazil",
+                "Lat": -19.37303,
+                "Lon": -40.05468
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.05468,
+                    -19.37303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Pequiá",
+                "Country": "Brazil",
+                "Lat": -20.27518,
+                "Lon": -41.77736
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.77736,
+                    -20.27518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Santa Teresa",
+                "Country": "Brazil",
+                "Lat": -19.93468,
+                "Lon": -40.59567
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.59567,
+                    -19.93468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sertanópolis",
+                "Country": "Brazil",
+                "Lat": -23.05947,
+                "Lon": -51.03244
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.03244,
+                    -23.05947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "São Paulo",
+                "Country": "Brazil",
+                "Lat": -23.54867,
+                "Lon": -46.638248
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.638248,
+                    -23.54867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tabocas do Brejo Velho",
+                "Country": "Brazil",
+                "Lat": -12.70558,
+                "Lon": -44.00877
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.00877,
+                    -12.70558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sofia",
+                "Country": "Bulgaria",
+                "Lat": 42.697708,
+                "Lon": 23.321867
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.321867,
+                    42.697708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bagassi",
+                "Country": "Burkina Faso",
+                "Lat": 11.74717,
+                "Lon": -3.29771
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.29771,
+                    11.74717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Béguédo",
+                "Country": "Burkina Faso",
+                "Lat": 12.37153,
+                "Lon": -1.51992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.51992,
+                    12.37153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bitou",
+                "Country": "Burkina Faso",
+                "Lat": 11.25213,
+                "Lon": -0.30609
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30609,
+                    11.25213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Garango",
+                "Country": "Burkina Faso",
+                "Lat": 11.80423,
+                "Lon": -0.54747
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.54747,
+                    11.80423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ouagadougou",
+                "Country": "Burkina Faso",
+                "Lat": 12.37153,
+                "Lon": -1.51992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.51992,
+                    12.37153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sanogho",
+                "Country": "Burkina Faso",
+                "Lat": 11.78558329,
+                "Lon": -0.5439780428
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5439780428,
+                    11.78558329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tenkodogo",
+                "Country": "Burkina Faso",
+                "Lat": 11.78333,
+                "Lon": -0.36667
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36667,
+                    11.78333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Yako",
+                "Country": "Burkina Faso",
+                "Lat": 12.96667,
+                "Lon": -2.26667
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.26667,
+                    12.96667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Batouri",
+                "Country": "Cameroon",
+                "Lat": 4.42855,
+                "Lon": 14.36399
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36399,
+                    4.42855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Yaoundé",
+                "Country": "Cameroon",
+                "Lat": 3.86177,
+                "Lon": 11.51875
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51875,
+                    3.86177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kinshasa",
+                "Country": "Democratic Republic of the Congo",
+                "Lat": -4.444860659,
+                "Lon": 15.26059896
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26059896,
+                    -4.444860659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kisangani",
+                "Country": "Democratic Republic of the Congo",
+                "Lat": 0.5185644246,
+                "Lon": 25.19997527
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.19997527,
+                    0.5185644246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mossaka",
+                "Country": "Republic of the Congo",
+                "Lat": -1.22628,
+                "Lon": 16.793091
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.793091,
+                    -1.22628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Abengourou",
+                "Country": "Côte d'Ivoire",
+                "Lat": 7.27659,
+                "Lon": -2.98559
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.98559,
+                    7.27659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Abidjan",
+                "Country": "Côte d'Ivoire",
+                "Lat": 6.82147,
+                "Lon": -5.27985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.27985,
+                    6.82147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Anyama",
+                "Country": "Côte d'Ivoire",
+                "Lat": 5.49868,
+                "Lon": -4.05353
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.05353,
+                    5.49868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Duékoué",
+                "Country": "Côte d'Ivoire",
+                "Lat": 6.74463,
+                "Lon": -7.34583
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.34583,
+                    6.74463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Madina",
+                "Country": "Côte d'Ivoire",
+                "Lat": 8.28978,
+                "Lon": -7.4144
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4144,
+                    8.28978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Man",
+                "Country": "Côte d'Ivoire",
+                "Lat": 7.40796,
+                "Lon": -7.54987
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.54987,
+                    7.40796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Marcory",
+                "Country": "Côte d'Ivoire",
+                "Lat": 5.30776,
+                "Lon": -3.99293
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.99293,
+                    5.30776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Odienne",
+                "Country": "Côte d'Ivoire",
+                "Lat": 9.51,
+                "Lon": -7.56917
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.56917,
+                    9.51
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Yamassoukro",
+                "Country": "Côte d'Ivoire",
+                "Lat": 6.82147,
+                "Lon": -5.27985
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.27985,
+                    6.82147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kruševac",
+                "Country": "Croatia",
+                "Lat": 46.02805,
+                "Lon": 16.67938
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67938,
+                    46.02805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Labin",
+                "Country": "Croatia",
+                "Lat": 45.09878,
+                "Lon": 14.11556
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.11556,
+                    45.09878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Pula",
+                "Country": "Croatia",
+                "Lat": 44.869701,
+                "Lon": 13.84133
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84133,
+                    44.869701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Rijeka",
+                "Country": "Croatia",
+                "Lat": 45.326908,
+                "Lon": 14.441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.441,
+                    45.326908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tresnjevica",
+                "Country": "Croatia",
+                "Lat": 45.91676,
+                "Lon": 17.14636
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14636,
+                    45.91676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Vinež",
+                "Country": "Croatia",
+                "Lat": 45.09591,
+                "Lon": 14.10527
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10527,
+                    45.09591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Alexandria",
+                "Country": "Egypt",
+                "Lat": 31.200092,
+                "Lon": 29.918739
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.918739,
+                    31.200092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Addis Ababa",
+                "Country": "Ethiopia",
+                "Lat": 8.980603,
+                "Lon": 38.757759
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.757759,
+                    8.980603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Harar",
+                "Country": "Ethiopia",
+                "Lat": 9.25382,
+                "Lon": 42.172009
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.172009,
+                    9.25382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Jijiga",
+                "Country": "Ethiopia",
+                "Lat": 9.35064,
+                "Lon": 42.798889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.798889,
+                    9.35064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Banjul",
+                "Country": "Gambia",
+                "Lat": 13.45129,
+                "Lon": -16.573
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.573,
+                    13.45129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bansang",
+                "Country": "Gambia",
+                "Lat": 13.43123,
+                "Lon": -14.655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.655,
+                    13.43123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Brikama",
+                "Country": "Gambia",
+                "Lat": 13.27119,
+                "Lon": -16.648689
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.648689,
+                    13.27119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Serrekunda",
+                "Country": "Gambia",
+                "Lat": 13.4348,
+                "Lon": -16.67831
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.67831,
+                    13.4348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Yundum",
+                "Country": "Gambia",
+                "Lat": 13.3429,
+                "Lon": -16.66731
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.66731,
+                    13.3429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Abuakwa",
+                "Country": "Ghana",
+                "Lat": 6.16252,
+                "Lon": -0.55705
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.55705,
+                    6.16252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Accra",
+                "Country": "Ghana",
+                "Lat": 5.56454,
+                "Lon": -0.22571
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22571,
+                    5.56454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Gomoa",
+                "Country": "Ghana",
+                "Lat": 5.50949,
+                "Lon": -0.74961
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.74961,
+                    5.50949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Jukwa",
+                "Country": "Ghana",
+                "Lat": 5.11372,
+                "Lon": -1.25937
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.25937,
+                    5.11372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Konongo",
+                "Country": "Ghana",
+                "Lat": 6.62571,
+                "Lon": -1.21195
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.21195,
+                    6.62571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kumasi",
+                "Country": "Ghana",
+                "Lat": 6.69507,
+                "Lon": -1.6158
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6158,
+                    6.69507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Obogu",
+                "Country": "Ghana",
+                "Lat": 6.52047,
+                "Lon": -1.11701
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.11701,
+                    6.52047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Takoradi",
+                "Country": "Ghana",
+                "Lat": 4.9011902,
+                "Lon": -1.784419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.784419,
+                    4.9011902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tamale",
+                "Country": "Ghana",
+                "Lat": 9.42772,
+                "Lon": -0.74337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.74337,
+                    9.42772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bafatá",
+                "Country": "Guinea-Bissau",
+                "Lat": 12.17346,
+                "Lon": -14.65316
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.65316,
+                    12.17346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Conakry",
+                "Country": "Guinea",
+                "Lat": 9.50913,
+                "Lon": -13.71255
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.71255,
+                    9.50913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Beyla",
+                "Country": "Guinea",
+                "Lat": 8.69038,
+                "Lon": -8.64795
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64795,
+                    8.69038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kankan",
+                "Country": "Guinea",
+                "Lat": 10.37194,
+                "Lon": -9.29855
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.29855,
+                    10.37194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Lelouma",
+                "Country": "Guinea",
+                "Lat": 11.42654,
+                "Lon": -12.68288
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.68288,
+                    11.42654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Pita",
+                "Country": "Guinea",
+                "Lat": 11.06004,
+                "Lon": -12.39535
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.39535,
+                    11.06004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kerala",
+                "Country": "India",
+                "Lat": 10.850516,
+                "Lon": 76.27108
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.27108,
+                    10.850516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kuttoor",
+                "Country": "India",
+                "Lat": 12.15083,
+                "Lon": 75.31226
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.31226,
+                    12.15083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Thalayar",
+                "Country": "India",
+                "Lat": 11.4527,
+                "Lon": 75.94913
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.94913,
+                    11.4527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Varavoor",
+                "Country": "India",
+                "Lat": 10.72121,
+                "Lon": 76.21275
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.21275,
+                    10.72121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tehran",
+                "Country": "Iran",
+                "Lat": 35.689198,
+                "Lon": 51.388973
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.388973,
+                    35.689198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Port Louis",
+                "Country": "Mauritius",
+                "Lat": -20.160891,
+                "Lon": 57.501221
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.501221,
+                    -20.160891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bishkek",
+                "Country": "Kyrgyzstan",
+                "Lat": 42.869961,
+                "Lon": 74.569962
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.569962,
+                    42.869961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Pristina",
+                "Country": "Kosovo",
+                "Lat": 42.66544,
+                "Lon": 21.165319
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.165319,
+                    42.66544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Prizren",
+                "Country": "Kosovo",
+                "Lat": 42.21048,
+                "Lon": 20.73217
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.73217,
+                    42.21048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Samadraxhë",
+                "Country": "Kosovo",
+                "Lat": 42.36115061,
+                "Lon": 20.74372228
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.74372228,
+                    42.36115061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Studençan",
+                "Country": "Kosovo",
+                "Lat": 42.3610313,
+                "Lon": 20.7538498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7538498,
+                    42.3610313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kata",
+                "Country": "Liberia",
+                "Lat": 6.2496299,
+                "Lon": -10.0329945
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0329945,
+                    6.2496299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Monrovia",
+                "Country": "Liberia",
+                "Lat": 6.290743,
+                "Lon": -10.760524
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.760524,
+                    6.290743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Debar",
+                "Country": "North Macedonia",
+                "Lat": 41.52669,
+                "Lon": 20.52368
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.52368,
+                    41.52669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kavadartsi",
+                "Country": "North Macedonia",
+                "Lat": 41.43402045,
+                "Lon": 22.01090752
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.01090752,
+                    41.43402045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mogorche",
+                "Country": "North Macedonia",
+                "Lat": 41.53115,
+                "Lon": 20.62412
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.62412,
+                    41.53115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Skopje",
+                "Country": "North Macedonia",
+                "Lat": 41.997345,
+                "Lon": 21.427996
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.427996,
+                    41.997345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tetovo",
+                "Country": "North Macedonia",
+                "Lat": 42.01022,
+                "Lon": 20.97137
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.97137,
+                    42.01022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bamako",
+                "Country": "Mali",
+                "Lat": 12.639232,
+                "Lon": -8.002889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.002889,
+                    12.639232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bougou",
+                "Country": "Mali",
+                "Lat": 12.61909,
+                "Lon": -7.99304
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.99304,
+                    12.61909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Dialla",
+                "Country": "Mali",
+                "Lat": 14.20703,
+                "Lon": -10.16141
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.16141,
+                    14.20703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Dioungou",
+                "Country": "Mali",
+                "Lat": 14.24484512,
+                "Lon": -10.9272768
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.9272768,
+                    14.24484512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Foulalaba",
+                "Country": "Mali",
+                "Lat": 10.68956,
+                "Lon": -7.35968
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.35968,
+                    10.68956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kayes",
+                "Country": "Mali",
+                "Lat": 14.44682,
+                "Lon": -11.43794
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.43794,
+                    14.44682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kita",
+                "Country": "Mali",
+                "Lat": 13.04007,
+                "Lon": -9.49387
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.49387,
+                    13.04007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Segou",
+                "Country": "Mali",
+                "Lat": 13.4319002,
+                "Lon": -6.2652324
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2652324,
+                    13.4319002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sirakoro",
+                "Country": "Mali",
+                "Lat": 12.56383,
+                "Lon": -7.91099
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91099,
+                    12.56383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Agadir ",
+                "Country": "Morocco",
+                "Lat": 30.41713,
+                "Lon": -9.59925
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.59925,
+                    30.41713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ahlaf",
+                "Country": "Morocco",
+                "Lat": 33.26891,
+                "Lon": -7.19639
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.19639,
+                    33.26891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ben Ahmed",
+                "Country": "Morocco",
+                "Lat": 33.0657,
+                "Lon": -7.24515
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.24515,
+                    33.0657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Beni Abdellah",
+                "Country": "Morocco",
+                "Lat": 32.33569,
+                "Lon": -6.35037
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.35037,
+                    32.33569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Beni Amer",
+                "Country": "Morocco",
+                "Lat": 32.86917,
+                "Lon": -6.91049
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.91049,
+                    32.86917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Beni Mellal",
+                "Country": "Morocco",
+                "Lat": 32.33613,
+                "Lon": -6.35526
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.35526,
+                    32.33613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tnine Beni Meskine",
+                "Country": "Morocco",
+                "Lat": 32.89343,
+                "Lon": -6.92221
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.92221,
+                    32.89343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Berrechid",
+                "Country": "Morocco",
+                "Lat": 33.27098,
+                "Lon": -7.58474
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.58474,
+                    33.27098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Boulemane",
+                "Country": "Morocco",
+                "Lat": 33.36624,
+                "Lon": -4.73111
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.73111,
+                    33.36624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Casablanca",
+                "Country": "Morocco",
+                "Lat": 33.573109,
+                "Lon": -7.589843
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.589843,
+                    33.573109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Douar Zaouia  ",
+                "Country": "Morocco",
+                "Lat": 31.25197,
+                "Lon": -8.68325
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.68325,
+                    31.25197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Talouste",
+                "Country": "Morocco",
+                "Lat": 34.02199,
+                "Lon": -6.83762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.83762,
+                    34.02199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Douar Assaka",
+                "Country": "Morocco",
+                "Lat": 29.02512,
+                "Lon": -10.23706
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.23706,
+                    29.02512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ouled Mellouk",
+                "Country": "Morocco",
+                "Lat": 30.36629,
+                "Lon": -9.31991
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.31991,
+                    30.36629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Aounate",
+                "Country": "Morocco",
+                "Lat": 34.05366,
+                "Lon": -6.789
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.789,
+                    34.05366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Borouj",
+                "Country": "Morocco",
+                "Lat": 32.50454,
+                "Lon": -7.19265
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.19265,
+                    32.50454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Kelaa des Sraghna",
+                "Country": "Morocco",
+                "Lat": 32.05282,
+                "Lon": -7.4072
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4072,
+                    32.05282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Fes",
+                "Country": "Morocco",
+                "Lat": 34.059769,
+                "Lon": -4.96531
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.96531,
+                    34.059769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ghafsai",
+                "Country": "Morocco",
+                "Lat": 34.629,
+                "Lon": -4.91155
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.91155,
+                    34.629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Guercif",
+                "Country": "Morocco",
+                "Lat": 34.23023,
+                "Lon": -3.34264
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.34264,
+                    34.23023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ida Ou Mhand",
+                "Country": "Morocco",
+                "Lat": 30.54545,
+                "Lon": -9.0073
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0073,
+                    30.54545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kasbah Tadla",
+                "Country": "Morocco",
+                "Lat": 32.59578,
+                "Lon": -6.27461
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.27461,
+                    32.59578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kenitra",
+                "Country": "Morocco",
+                "Lat": 34.267471,
+                "Lon": -6.56263
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.56263,
+                    34.267471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Khouribga",
+                "Country": "Morocco",
+                "Lat": 32.8791,
+                "Lon": -6.91118
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.91118,
+                    32.8791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ksar el-Kebir",
+                "Country": "Morocco",
+                "Lat": 35.00246,
+                "Lon": -5.90356
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.90356,
+                    35.00246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Maârif",
+                "Country": "Morocco",
+                "Lat": 33.58026,
+                "Lon": -7.63022
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.63022,
+                    33.58026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Marrakesh",
+                "Country": "Morocco",
+                "Lat": 31.71879,
+                "Lon": -8.09695
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.09695,
+                    31.71879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mediouna",
+                "Country": "Morocco",
+                "Lat": 33.456139,
+                "Lon": -7.52168
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.52168,
+                    33.456139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Moulay Bouazza",
+                "Country": "Morocco",
+                "Lat": 33.22181,
+                "Lon": -6.19894
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.19894,
+                    33.22181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Temara",
+                "Country": "Morocco",
+                "Lat": 33.92993,
+                "Lon": -6.9143
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9143,
+                    33.92993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ouled Abdoune",
+                "Country": "Morocco",
+                "Lat": 32.91597,
+                "Lon": -6.93453
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.93453,
+                    32.91597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ouled Ali",
+                "Country": "Morocco",
+                "Lat": 34.2268,
+                "Lon": -5.72335
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.72335,
+                    34.2268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ouled Mrah",
+                "Country": "Morocco",
+                "Lat": 32.91019,
+                "Lon": -7.2584
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2584,
+                    32.91019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ouled Said",
+                "Country": "Morocco",
+                "Lat": 32.54246,
+                "Lon": -6.36405
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.36405,
+                    32.54246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Rabat",
+                "Country": "Morocco",
+                "Lat": 34.021992,
+                "Lon": -6.83762
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.83762,
+                    34.021992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ras El Ain",
+                "Country": "Morocco",
+                "Lat": 32.02483,
+                "Lon": -8.49025
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.49025,
+                    32.02483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Skhour Rhamna",
+                "Country": "Morocco",
+                "Lat": 32.48155,
+                "Lon": -7.91584
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91584,
+                    32.48155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Safi",
+                "Country": "Morocco",
+                "Lat": 32.309879,
+                "Lon": -9.23262
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.23262,
+                    32.309879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Salé",
+                "Country": "Morocco",
+                "Lat": 34.05357,
+                "Lon": -6.79286
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.79286,
+                    34.05357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Settat",
+                "Country": "Morocco",
+                "Lat": 33.00137,
+                "Lon": -7.61972
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.61972,
+                    33.00137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bouarfa",
+                "Country": "Morocco",
+                "Lat": 32.53149,
+                "Lon": -1.9605
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9605,
+                    32.53149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sidi El Hattab",
+                "Country": "Morocco",
+                "Lat": 32.26403,
+                "Lon": -7.28868
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.28868,
+                    32.26403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Skhirat",
+                "Country": "Morocco",
+                "Lat": 33.86865,
+                "Lon": -7.06249
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.06249,
+                    33.86865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sraghna",
+                "Country": "Morocco",
+                "Lat": 32.05282,
+                "Lon": -7.4072
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4072,
+                    32.05282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tafraoute",
+                "Country": "Morocco",
+                "Lat": 33.53356,
+                "Lon": -7.62677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.62677,
+                    33.53356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tanant",
+                "Country": "Morocco",
+                "Lat": 31.86285,
+                "Lon": -6.94376
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.94376,
+                    31.86285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Taroudant",
+                "Country": "Morocco",
+                "Lat": 30.44713,
+                "Lon": -8.4161
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4161,
+                    30.44713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tata",
+                "Country": "Morocco",
+                "Lat": 29.746392,
+                "Lon": -7.969605
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.969605,
+                    29.746392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Taza",
+                "Country": "Morocco",
+                "Lat": 34.2318,
+                "Lon": -4.00676
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.00676,
+                    34.2318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tendrara  ",
+                "Country": "Morocco",
+                "Lat": 33.05218,
+                "Lon": -2.00232
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.00232,
+                    33.05218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Abeokuta",
+                "Country": "Nigeria",
+                "Lat": 7.144923429,
+                "Lon": 3.366064388
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.366064388,
+                    7.144923429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Aboh",
+                "Country": "Nigeria",
+                "Lat": 5.54705,
+                "Lon": 6.52588
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.52588,
+                    5.54705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Amankwu",
+                "Country": "Nigeria",
+                "Lat": 5.511008805,
+                "Lon": 7.818305839
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.818305839,
+                    5.511008805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Benin City",
+                "Country": "Nigeria",
+                "Lat": 6.34245,
+                "Lon": 5.63384
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.63384,
+                    6.34245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Delta",
+                "Country": "Nigeria",
+                "Lat": 5.75646,
+                "Lon": 5.89351
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.89351,
+                    5.75646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Delta State",
+                "Country": "Nigeria",
+                "Lat": 5.70612,
+                "Lon": 5.94807
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.94807,
+                    5.70612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Eket",
+                "Country": "Nigeria",
+                "Lat": 4.6492004,
+                "Lon": 7.9436586
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9436586,
+                    4.6492004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ekwe",
+                "Country": "Nigeria",
+                "Lat": 5.68993,
+                "Lon": 7.05169
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05169,
+                    5.68993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Enugu",
+                "Country": "Nigeria",
+                "Lat": 6.44455,
+                "Lon": 7.49018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49018,
+                    6.44455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Lagos",
+                "Country": "Nigeria",
+                "Lat": 6.524379,
+                "Lon": 3.379206
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379206,
+                    6.524379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Orlu",
+                "Country": "Nigeria",
+                "Lat": 5.79449,
+                "Lon": 7.03589
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.03589,
+                    5.79449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Owerri",
+                "Country": "Nigeria",
+                "Lat": 5.49424,
+                "Lon": 7.03339
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.03339,
+                    5.49424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Port Harcourt",
+                "Country": "Nigeria",
+                "Lat": 4.77149,
+                "Lon": 7.01435
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.01435,
+                    4.77149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bhimber",
+                "Country": "Pakistan",
+                "Lat": 33.720001,
+                "Lon": 73.059998
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.059998,
+                    33.720001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Gujrat",
+                "Country": "Pakistan",
+                "Lat": 30.16597,
+                "Lon": 70.955482
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.955482,
+                    30.16597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Gujranwala",
+                "Country": "Pakistan",
+                "Lat": 32.162369,
+                "Lon": 74.183083
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.183083,
+                    32.162369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sargodha",
+                "Country": "Pakistan",
+                "Lat": 32.085369,
+                "Lon": 72.67498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.67498,
+                    32.085369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sheikhupura",
+                "Country": "Pakistan",
+                "Lat": 31.708771,
+                "Lon": 73.984673
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.984673,
+                    31.708771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sargodha",
+                "Country": "Pakistan",
+                "Lat": 32.085369,
+                "Lon": 72.67498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.67498,
+                    32.085369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sheikhupura",
+                "Country": "Pakistan",
+                "Lat": 31.708771,
+                "Lon": 73.984673
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.984673,
+                    31.708771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kraków",
+                "Country": "Poland",
+                "Lat": 50.05481,
+                "Lon": 19.927839
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.927839,
+                    50.05481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Brașov",
+                "Country": "Romania",
+                "Lat": 45.64949,
+                "Lon": 25.60655
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.60655,
+                    45.64949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Butea",
+                "Country": "Romania",
+                "Lat": 44.56116,
+                "Lon": 25.94774
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.94774,
+                    44.56116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Hălăucești",
+                "Country": "Romania",
+                "Lat": 47.09004,
+                "Lon": 26.81682
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.81682,
+                    47.09004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Iași",
+                "Country": "Romania",
+                "Lat": 47.15981,
+                "Lon": 27.5872
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5872,
+                    47.15981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Pașcani",
+                "Country": "Romania",
+                "Lat": 47.24413,
+                "Lon": 26.72436
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.72436,
+                    47.24413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Săbăoani",
+                "Country": "Romania",
+                "Lat": 47.01614,
+                "Lon": 26.86585
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.86585,
+                    47.01614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Târgoviște",
+                "Country": "Romania",
+                "Lat": 44.926899,
+                "Lon": 25.457319
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.457319,
+                    44.926899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Adéane",
+                "Country": "Senegal",
+                "Lat": 12.62873,
+                "Lon": -16.01607
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.01607,
+                    12.62873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bambey",
+                "Country": "Senegal",
+                "Lat": 14.69651,
+                "Lon": -16.45314
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.45314,
+                    14.69651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bayar",
+                "Country": "Senegal",
+                "Lat": 14.46536,
+                "Lon": -15.92032
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.92032,
+                    14.46536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Coki",
+                "Country": "Senegal",
+                "Lat": 15.50556,
+                "Lon": -15.99071
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.99071,
+                    15.50556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Dakar",
+                "Country": "Senegal",
+                "Lat": 14.716677,
+                "Lon": -17.467686
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.467686,
+                    14.716677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Darou",
+                "Country": "Senegal",
+                "Lat": 15.04135,
+                "Lon": -16.04645
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.04645,
+                    15.04135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Diakhao",
+                "Country": "Senegal",
+                "Lat": 14.46259,
+                "Lon": -16.28996
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.28996,
+                    14.46259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Divane",
+                "Country": "Senegal",
+                "Lat": 14.97495,
+                "Lon": -16.11845
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.11845,
+                    14.97495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Diourbel",
+                "Country": "Senegal",
+                "Lat": 14.78007,
+                "Lon": -16.11254
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.11254,
+                    14.78007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Gueoul",
+                "Country": "Senegal",
+                "Lat": 15.4783411,
+                "Lon": -16.3446604
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3446604,
+                    15.4783411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kaolak",
+                "Country": "Senegal",
+                "Lat": 13.9335,
+                "Lon": -15.93917
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.93917,
+                    13.9335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Khaye",
+                "Country": "Senegal",
+                "Lat": 15.09968494,
+                "Lon": -16.22969784
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.22969784,
+                    15.09968494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Coki",
+                "Country": "Senegal",
+                "Lat": 15.50556,
+                "Lon": -15.99071
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.99071,
+                    15.50556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Louga",
+                "Country": "Senegal",
+                "Lat": 15.42243,
+                "Lon": -15.52647
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.52647,
+                    15.42243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mbacke",
+                "Country": "Senegal",
+                "Lat": 15.11259,
+                "Lon": -16.19513
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.19513,
+                    15.11259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mbadane",
+                "Country": "Senegal",
+                "Lat": 14.3929303,
+                "Lon": -16.9140481
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9140481,
+                    14.3929303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mbour",
+                "Country": "Senegal",
+                "Lat": 14.41531,
+                "Lon": -16.96484
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.96484,
+                    14.41531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Médina Sékou",
+                "Country": "Senegal",
+                "Lat": 13.2941,
+                "Lon": -14.71497
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.71497,
+                    13.2941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ndiarno",
+                "Country": "Senegal",
+                "Lat": 15.51733,
+                "Lon": -16.46575
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.46575,
+                    15.51733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ngourane",
+                "Country": "Senegal",
+                "Lat": 15.4464,
+                "Lon": -16.29404
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.29404,
+                    15.4464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Nguéyène",
+                "Country": "Senegal",
+                "Lat": 15.57892,
+                "Lon": -16.3212
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3212,
+                    15.57892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Noalla",
+                "Country": "Senegal",
+                "Lat": 15.53864,
+                "Lon": -15.94285
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.94285,
+                    15.53864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tiamene",
+                "Country": "Senegal",
+                "Lat": 13.90984,
+                "Lon": -16.3345
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3345,
+                    13.90984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Thies",
+                "Country": "Senegal",
+                "Lat": 14.82315,
+                "Lon": -16.75546
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.75546,
+                    14.82315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Touba",
+                "Country": "Senegal",
+                "Lat": 13.14108,
+                "Lon": -16.65018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.65018,
+                    13.14108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Čačak",
+                "Country": "Serbia",
+                "Lat": 43.89365,
+                "Lon": 20.34938
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.34938,
+                    43.89365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Jagodina",
+                "Country": "Serbia",
+                "Lat": 43.98127,
+                "Lon": 21.257441
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.257441,
+                    43.98127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kriezi",
+                "Country": "Serbia",
+                "Lat": 45.78,
+                "Lon": 19.07468
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.07468,
+                    45.78
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mijatovac ",
+                "Country": "Serbia",
+                "Lat": 43.9519558,
+                "Lon": 21.3314757
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3314757,
+                    43.9519558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Trstenik",
+                "Country": "Serbia",
+                "Lat": 43.619991,
+                "Lon": 20.99909
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.99909,
+                    43.619991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Songo",
+                "Country": "Sierra Leone",
+                "Lat": 9.53331,
+                "Lon": -10.95772
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.95772,
+                    9.53331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Balcad",
+                "Country": "Somalia",
+                "Lat": 8.88314,
+                "Lon": 45.10018
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.10018,
+                    8.88314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bosaso",
+                "Country": "Somalia",
+                "Lat": 11.28002,
+                "Lon": 49.18227
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.18227,
+                    11.28002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Burco",
+                "Country": "Somalia",
+                "Lat": 9.525917,
+                "Lon": 45.53463
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.53463,
+                    9.525917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ceelbuur",
+                "Country": "Somalia",
+                "Lat": 4.685731238,
+                "Lon": 46.61921228
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.61921228,
+                    4.685731238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mogadishu",
+                "Country": "Somalia",
+                "Lat": 2.05003,
+                "Lon": 45.322399
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.322399,
+                    2.05003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Atakpame",
+                "Country": "Togo",
+                "Lat": 7.51769,
+                "Lon": 1.14651
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.14651,
+                    7.51769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Lomé",
+                "Country": "Togo",
+                "Lat": 6.13365,
+                "Lon": 1.22311
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.22311,
+                    6.13365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Danyi N'Digbé",
+                "Country": "Togo",
+                "Lat": 7.20458,
+                "Lon": 0.69571
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.69571,
+                    7.20458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Ayn Darahim",
+                "Country": "Tunisia",
+                "Lat": 36.77829,
+                "Lon": 8.68897
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.68897,
+                    36.77829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kairouan",
+                "Country": "Tunisia",
+                "Lat": 35.6728,
+                "Lon": 10.09491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09491,
+                    35.6728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sidi Assaker",
+                "Country": "Tunisia",
+                "Lat": 36.90933,
+                "Lon": 10.04353
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04353,
+                    36.90933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sidi Bouzid",
+                "Country": "Tunisia",
+                "Lat": 35.03885,
+                "Lon": 9.49026
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.49026,
+                    35.03885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Tunisia",
+                "Country": "Tunisia",
+                "Lat": 36.80007,
+                "Lon": 10.18706
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18706,
+                    36.80007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Beja",
+                "Country": "Tunisia",
+                "Lat": 36.725891,
+                "Lon": 9.18734
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18734,
+                    36.725891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Beni Khalled",
+                "Country": "Tunisia",
+                "Lat": 36.70991,
+                "Lon": 10.20577
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.20577,
+                    36.70991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bizerte",
+                "Country": "Tunisia",
+                "Lat": 37.272591,
+                "Lon": 9.87191
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.87191,
+                    37.272591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Bou Merdes",
+                "Country": "Tunisia",
+                "Lat": 35.45435,
+                "Lon": 10.72927
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72927,
+                    35.45435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Djerba",
+                "Country": "Tunisia",
+                "Lat": 33.80871,
+                "Lon": 10.99103
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.99103,
+                    33.80871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Kef",
+                "Country": "Tunisia",
+                "Lat": 36.16975,
+                "Lon": 8.70447
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70447,
+                    36.16975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Gradha Ouest",
+                "Country": "Tunisia",
+                "Lat": 36.84055,
+                "Lon": 10.3038
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3038,
+                    36.84055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Jebiniana",
+                "Country": "Tunisia",
+                "Lat": 36.8316,
+                "Lon": 10.09536
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09536,
+                    36.8316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Jendouba",
+                "Country": "Tunisia",
+                "Lat": 36.497681,
+                "Lon": 8.77776
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77776,
+                    36.497681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Al-Jarissah",
+                "Country": "Tunisia",
+                "Lat": 35.6728,
+                "Lon": 10.09491
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09491,
+                    35.6728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Kalaat Khasba",
+                "Country": "Tunisia",
+                "Lat": 35.73983,
+                "Lon": 8.57949
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.57949,
+                    35.73983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "El Ayoun",
+                "Country": "Tunisia",
+                "Lat": 35.54254,
+                "Lon": 8.88788
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.88788,
+                    35.54254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "M'saken",
+                "Country": "Tunisia",
+                "Lat": 35.733318,
+                "Lon": 10.57568
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.57568,
+                    35.733318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mahdia",
+                "Country": "Tunisia",
+                "Lat": 35.503349,
+                "Lon": 11.0683
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0683,
+                    35.503349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Meknassi",
+                "Country": "Tunisia",
+                "Lat": 36.7453,
+                "Lon": 10.11953
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.11953,
+                    36.7453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Manouba",
+                "Country": "Tunisia",
+                "Lat": 36.81237,
+                "Lon": 10.09306
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09306,
+                    36.81237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mateur",
+                "Country": "Tunisia",
+                "Lat": 37.04359,
+                "Lon": 9.66281
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.66281,
+                    37.04359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Mateur",
+                "Country": "Tunisia",
+                "Lat": 37.04359,
+                "Lon": 9.66281
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.66281,
+                    37.04359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Menzel Bourguiba",
+                "Country": "Tunisia",
+                "Lat": 37.14899,
+                "Lon": 9.7889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7889,
+                    37.14899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Al-Waslatiyah",
+                "Country": "Tunisia",
+                "Lat": 35.84888,
+                "Lon": 9.58888
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.58888,
+                    35.84888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Siliana",
+                "Country": "Tunisia",
+                "Lat": 36.08452,
+                "Lon": 9.37083
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.37083,
+                    36.08452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sulayman",
+                "Country": "Tunisia",
+                "Lat": 36.69312,
+                "Lon": 10.49252
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49252,
+                    36.69312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Zaghouan",
+                "Country": "Tunisia",
+                "Lat": 36.40292,
+                "Lon": 10.14224
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14224,
+                    36.40292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Hanoi",
+                "Country": "Vietnam",
+                "Lat": 21.02828,
+                "Lon": 105.853882
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.853882,
+                    21.02828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Sanaa",
+                "Country": "Yemen",
+                "Lat": 14.00815,
+                "Lon": 44.174889
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.174889,
+                    14.00815
+                ]
+            }
+        }
+    ]
+}
